@@ -1,0 +1,6 @@
+D:\Users\20205\source\repos\Homework2\task2\bin\Debug\task2.exe.config
+D:\Users\20205\source\repos\Homework2\task2\bin\Debug\task2.exe
+D:\Users\20205\source\repos\Homework2\task2\bin\Debug\task2.pdb
+D:\Users\20205\source\repos\Homework2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\Users\20205\source\repos\Homework2\task2\obj\Debug\task2.exe
+D:\Users\20205\source\repos\Homework2\task2\obj\Debug\task2.pdb
