@@ -1,0 +1,7 @@
+D:\Users\20205\source\repos\Homework4\task1\bin\Debug\task1.exe.config
+D:\Users\20205\source\repos\Homework4\task1\bin\Debug\task1.exe
+D:\Users\20205\source\repos\Homework4\task1\bin\Debug\task1.pdb
+D:\Users\20205\source\repos\Homework4\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+D:\Users\20205\source\repos\Homework4\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+D:\Users\20205\source\repos\Homework4\task1\obj\Debug\task1.exe
+D:\Users\20205\source\repos\Homework4\task1\obj\Debug\task1.pdb
