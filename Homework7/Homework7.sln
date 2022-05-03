@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CayleyTree", "CayleyTree\CayleyTree.csproj", "{37C05F93-D69B-4690-A474-88C1130D35F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37C05F93-D69B-4690-A474-88C1130D35F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C05F93-D69B-4690-A474-88C1130D35F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C05F93-D69B-4690-A474-88C1130D35F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C05F93-D69B-4690-A474-88C1130D35F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6E42FF2-7A8A-44A6-A140-8344A73747C5}
+	EndGlobalSection
+EndGlobal
