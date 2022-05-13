@@ -1,0 +1,7 @@
+D:\Users\20205\source\repos\Homework6\SerializationAndUnitTesting\bin\Debug\SerializationAndUnitTesting.exe.config
+D:\Users\20205\source\repos\Homework6\SerializationAndUnitTesting\bin\Debug\SerializationAndUnitTesting.exe
+D:\Users\20205\source\repos\Homework6\SerializationAndUnitTesting\bin\Debug\SerializationAndUnitTesting.pdb
+D:\Users\20205\source\repos\Homework6\SerializationAndUnitTesting\obj\Debug\SerializationAndUnitTesting.csproj.CoreCompileInputs.cache
+D:\Users\20205\source\repos\Homework6\SerializationAndUnitTesting\obj\Debug\SerializationAndUnitTesting.exe
+D:\Users\20205\source\repos\Homework6\SerializationAndUnitTesting\obj\Debug\SerializationAndUnitTesting.pdb
+D:\Users\20205\source\repos\Homework6\SerializationAndUnitTesting\obj\Debug\SerializationAndUnitTesting.csproj.AssemblyReference.cache
